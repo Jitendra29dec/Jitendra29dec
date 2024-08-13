@@ -1,9 +1,11 @@
 ## Hi there 👋
-👋 Hi, I’m @Jiten
-👀 I’m interested in Web & App Development
-🌱 I’m currently learning AI
-💞️ I’m looking to collaborate on any web or app development project
-📫 How to reach me: jitendra29dec@gmail.com
+
+- 👋 Hi, I’m @Jiten
+- 🌱 I’m interested in Web & App Development
+- 👯 I’m currently learning AI
+- 🤔 I’m looking to collaborate on any web or app development project
+- 📫 How to reach me: jitendra29dec@gmail.com
+
 
 <!--
 **Jitendra29dec/Jitendra29dec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
